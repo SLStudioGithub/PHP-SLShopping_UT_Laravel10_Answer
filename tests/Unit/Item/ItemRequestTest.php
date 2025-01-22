@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\Unit\Brand;
+namespace Tests\Unit\Item;
 
 use App\http\Requests\ItemRequest;
 use Illuminate\Support\Facades\Validator;
